@@ -1,0 +1,23 @@
+a{
+  color:#00487c;
+  &:hover{
+    color:#dca85e;
+  }
+}
+.all-objects .card-img-top{
+  width: 348px;
+  height: 215px;
+}
+.search-card .card-img{
+  max-height: 215px;
+}
+.aside-objects {
+  width: 100%;
+  .card-img-top{
+    max-height: 95px;
+  }
+}
+img{
+  width: 100%;
+  height: auto; 
+}
